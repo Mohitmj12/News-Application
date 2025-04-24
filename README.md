@@ -1,2 +1,2 @@
 # News-Application
-HTML,CSS,Java Script
+HTML,CSS,Java Script,News API
